@@ -1,1 +1,1 @@
-[Take me away](./README.md)
+[Take me away](README.md)
