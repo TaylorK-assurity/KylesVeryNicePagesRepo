@@ -1,1 +1,9 @@
 theme: jekyll-theme-time-machine
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - index.md
+  - README.md
